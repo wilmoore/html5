@@ -1,0 +1,24 @@
+{
+  "name": "html",
+  "description": "opinionated HTML5 reference",
+  "version": "1.0.0",
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "bugs": "https://github.com/wilmoore/html5/issues",
+  "homepage": "https://github.com/wilmoore/html5",
+  "keywords": [
+    "examples",
+    "html",
+    "html5",
+    "opinionated",
+    "reference"
+  ],
+  "license": "MIT",
+  "main": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wilmoore/html5.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
